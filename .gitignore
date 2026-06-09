@@ -1,0 +1,6 @@
+﻿__pycache__/
+.venv/
+key.txt
+my_memory_db/
+*.pyc
+

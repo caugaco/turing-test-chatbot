@@ -1,0 +1,7 @@
+sentence-transformers
+torch
+sentencepiece
+scikit-learn
+langchain
+langchain-openai
+gradio
